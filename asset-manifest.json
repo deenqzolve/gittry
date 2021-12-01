@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gittry/static/css/main.a617e044.chunk.css",
+    "main.js": "/gittry/static/js/main.6bc689e0.chunk.js",
+    "main.js.map": "/gittry/static/js/main.6bc689e0.chunk.js.map",
+    "runtime-main.js": "/gittry/static/js/runtime-main.3b204d27.js",
+    "runtime-main.js.map": "/gittry/static/js/runtime-main.3b204d27.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/gittry/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/gittry/static/js/2.8833cd6e.chunk.js.map",
+    "static/js/3.ff0311e9.chunk.js": "/gittry/static/js/3.ff0311e9.chunk.js",
+    "static/js/3.ff0311e9.chunk.js.map": "/gittry/static/js/3.ff0311e9.chunk.js.map",
+    "index.html": "/gittry/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gittry/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/gittry/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gittry/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b204d27.js",
+    "static/js/2.8833cd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6bc689e0.chunk.js"
+  ]
+}
